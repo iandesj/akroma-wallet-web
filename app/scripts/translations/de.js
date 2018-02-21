@@ -128,7 +128,7 @@ ONBOARD_interface_content__2    :  'The handling of your keys happens entirely o
 ONBOARD_interface_content__3    :  'We never transmit, receive or store your private key, password, or other account information.',
 ONBOARD_interface_content__4    :  'We do not charge a transaction fee.',
 ONBOARD_interface_content__5    :  'You are simply using our **interface** to interact **directly with the blockchain**.',
-ONBOARD_interface_content__6    :  'If you send your *public key (address)* to someone, they can send you ETH or tokens. 👍',
+ONBOARD_interface_content__6    :  'If you send your *public key (address)* to someone, they can send you AKA or tokens. 👍',
 ONBOARD_interface_content__7    :  'If you send your *private key* to someone, they now have full control of your account. 👎',
 ONBOARD_bank_title__alt         :  'MEW isn\'t a Bank',
 ONBOARD_blockchain_title__alt   :  'WTF is a Blockchain?',
@@ -229,7 +229,7 @@ tx_foundInPending_3         : 'Es ist möglich Sie zu widerrufen oder diese Tran
 tx_FoundOnChain             : 'Transaktion gefunden',
 tx_FoundOnChain_1           : 'Ihre Transaktion wurde gemined und ist nun in der Blockchain.',
 tx_FoundOnChain_2           : '**Wenn Sie ein rotes`( ! )`, ein `BAD INSTRUCTION` oder `OUT OF GAS` Fehlernachricht bekommen**, heißt dass, dass die Transaktion nicht erfolgreich *gesendet* worden ist. Sie können die Transaktion nicht zurücknehmen oder ersetzen. Stattdessen, sende eine neue Transaktion. Wenn Sie einen "Out of Gas" Fehler bekommen, sollten Sie das GasLimit verdoppeln, dass Sie ursprünglich benutzt haben.',
-tx_FoundOnChain_3           : '**Wenn sie keine Fehlernachrichten bekommen, wurde ihre Transaktion erfolgreich versendet.** Ihre ETH oder Tokens sind dort, wohin sie versendet wurden. Wenn Sie die ETH or Tokens nicht im anderen Wallet / Exchange account sehen können, und es schon mehr als 24 Stunden her ist, seitdem Sie gesendet haben, bitte [Kontaktieren Sie den Service](https://myetherwallet.github.io/knowledge-base/diving-deeper/ethereum-list-of-support-and-communities.html). Senden Sie den *link* zu ihrer Transaktion und fragen Sie höflich, die Situation anzuschauen.',
+tx_FoundOnChain_3           : '**Wenn sie keine Fehlernachrichten bekommen, wurde ihre Transaktion erfolgreich versendet.** Ihre ETH oder Tokens sind dort, wohin sie versendet wurden. Wenn Sie die AKA or Tokens nicht im anderen Wallet / Exchange account sehen können, und es schon mehr als 24 Stunden her ist, seitdem Sie gesendet haben, bitte [Kontaktieren Sie den Service](https://myetherwallet.github.io/knowledge-base/diving-deeper/ethereum-list-of-support-and-communities.html). Senden Sie den *link* zu ihrer Transaktion und fragen Sie höflich, die Situation anzuschauen.',
 
 /* Gen Wallet Updates */
 GEN_Help_1                  : 'Nutzen Sie Ihre',
